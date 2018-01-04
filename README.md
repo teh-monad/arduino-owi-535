@@ -3,6 +3,7 @@ Arduino example for work with OWI-535 arm through bluetooth.
 ## Details
 
 * Arduino UNO v3 or etc.;
+* OWI-535 Robotic Arm Edge;
 * 5x L9110H drivers;
 * HC-06 bluetooth;
 * breadboard/arduino motor shield;
