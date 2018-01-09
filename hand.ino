@@ -206,27 +206,6 @@ void loop(){
         delay(250); //250ms
         Serial.write("Motor 4 R -> Offline\n");    
      }
-  /*
-  ROTATE(1, 3000);
-     
-  stopRotate();
-  delay(250); //250ms
-
-  ROTATE(2, 3000); 
-  
-  stopRotate();
-  delay(250); //250ms
-
-  CAPTURE(1, 1000);
-     
-  stopCapture();
-  delay(250); //250ms
-
-  CAPTURE(2, 1000); 
-  
-  stopCapture();
-  delay(250); //250ms
-  */
 }
 
 
